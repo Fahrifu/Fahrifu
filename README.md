@@ -3,7 +3,7 @@
 <h2 align="center">LeetCode Stats</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=unica&ext=heatmap"/>
+  <a href="https://leetcode.com/Fahrifu">
+    <img src="https://leetcard.jacoblin.cool/Fahrifu?theme=dark&font=unica&ext=heatmap"/>
   </a>
 </p>
