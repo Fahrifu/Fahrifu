@@ -1,7 +1,9 @@
-# LeetCode
-
 # Hi there 👋
 
-## LeetCode Progress
+<h2 align="center">LeetCode Stats</h2>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Fahrifu?theme=dark&font=Karma)](https://leetcode.com/Fahrifu)
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=unica&ext=heatmap"/>
+  </a>
+</p>
