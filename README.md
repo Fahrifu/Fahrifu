@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <h2 align="center">LeetCode Stats</h2>
 
 <p align="center">
